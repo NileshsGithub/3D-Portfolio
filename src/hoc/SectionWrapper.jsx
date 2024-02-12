@@ -18,6 +18,6 @@ function HOC() {
         </span>
         <Component />
       </motion.section>
-    )
-  }
+    );
+  };
  export default SectionWrapper;
